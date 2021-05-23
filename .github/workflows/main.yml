@@ -26,7 +26,7 @@ jobs:
         run: echo Hello, world!
       - name: java version
         run: java -version
-      - name: java version
+      - name: maven version
         run: mvn --version
       - name: python version
         run: python --version
